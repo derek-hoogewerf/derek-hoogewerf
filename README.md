@@ -3,16 +3,16 @@
 ### Connect with me
 <div id="badges">
   <a href="https://www.linkedin.com/in/derek-hoogewerf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discordapp.com/users/cutthroat8636">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=FFDC80" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/@dbhoogewerf">
-    <img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord Badge"/>
   </a>
   <a href="https://discordapp.com/users/cutthroat8636">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="Youtube Badge"/>
   </a>
 </div>
  
