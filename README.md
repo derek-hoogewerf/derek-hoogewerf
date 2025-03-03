@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="Youtube Badge"/>
   </a>
   <a href="https://discordapp.com/users/cutthroat8636">
-    <img src="https://img.shields.io/badge/Githib-333?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Youtube Badge"/>
   </a>
 </div>
  
