@@ -11,8 +11,11 @@
   <a href="https://www.youtube.com/@dbhoogewerf">
     <img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord Badge"/>
   </a>
-  <a href="https://discordapp.com/users/cutthroat8636">
+  <a href="https://github.com/derek-hoogewerf">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="Youtube Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/cutthroat8636">
+    <img src="https://img.shields.io/badge/Githib-333?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Youtube Badge"/>
   </a>
 </div>
  
