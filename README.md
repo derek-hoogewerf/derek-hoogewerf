@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/derek-hoogewerf/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/derek_hoogewerf">
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=FFDC80" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/@dbhoogewerf">
