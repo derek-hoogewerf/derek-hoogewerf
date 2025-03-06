@@ -20,8 +20,8 @@
 </div>
  
 ### :hammer_and_wrench: Languages and Tools :
-  - [ ] Front End
-  <div>
+  - [ ] Back End
+  <div id='backend'>
     <a href="#">
       <img src="https://img.shields.io/badge/Java-orange">
     </a>
@@ -32,10 +32,26 @@
       <img src="https://img.shields.io/badge/NodeJS-green">
     </a>
     <a href="#">
+      <img src="https://img.shields.io/badge/Perl-cyan">
+    </a>
+    <a href="#">
       <img src="https://img.shields.io/badge/Python-blue">
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Ruby-red">
+    </a>
+  </div>
+  
+  - [ ] Front End
+  <div id='frontend'>
+    <a href="#">
+      <img src="https://img.shields.io/badge/HTMLX-grey">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MarkDown-black">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/PHP-lightblue">
     </a>
   </div>
 
