@@ -29,6 +29,9 @@
       <img src="https://img.shields.io/badge/JavaScript-yellow">
     </a>
     <a href="#">
+      <img src="https://img.shields.io/badge/NodeJS-green">
+    </a>
+    <a href="#">
       <img src="https://img.shields.io/badge/Python-blue">
     </a>
     <a href="#">
