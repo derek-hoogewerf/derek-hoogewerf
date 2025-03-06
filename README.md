@@ -20,10 +20,16 @@
 </div>
  
 ### :hammer_and_wrench: Languages and Tools :
-- [ ] Front End
-- [](https://img.shields.io/badge/Java-orange)
-- [](https://img.shields.io/badge/JavaScript-yellow)
-- [](https://img.shields.io/badge/python-blue)
+  - [ ] Front End
+    <a href="#">
+      <img src="https://img.shields.io/badge/Java-orange">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/JavaScript-yellow">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/python-blue">
+    </a>
 
 
 
