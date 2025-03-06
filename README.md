@@ -29,10 +29,13 @@
       <img src="https://img.shields.io/badge/JavaScript-yellow">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/NodeJS-green">
+      <img src="https://img.shields.io/badge/NodeJS-darkgreen">
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Perl-cyan">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/PowerShell-black">
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Python-blue">
@@ -44,10 +47,10 @@
   <div id='frontend'>
   - [ ] Front End : <br/>
     <a href="#">
-      <img src="https://img.shields.io/badge/HTMLX-grey">
+      <img src="https://img.shields.io/badge/HTML-grey">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/MarkDown-black">
+      <img src="https://img.shields.io/badge/MarkDown-green">
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/PHP-lightblue">
