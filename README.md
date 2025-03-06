@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-### :mailbox: Connect with me
+### About Me
+
+##### :mailbox: Connect with me
 <div id="badges">
   <a href="https://www.linkedin.com/in/derek-hoogewerf/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Badge"/>
@@ -19,7 +21,7 @@
   </a>
 </div>
  
-### :hammer_and_wrench: Languages and Tools :
+##### :hammer_and_wrench: Languages and Tools :
 - Back End :
   <div id='backend'>
     <a href="#">
