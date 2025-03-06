@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/Python-blue">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Ruby-ruby">
+      <img src="https://img.shields.io/badge/Ruby-red">
     </a>
   </div>
 
