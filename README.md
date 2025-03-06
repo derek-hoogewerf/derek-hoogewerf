@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=FFDC80" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/@dbhoogewerf">
-    <img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Youtube-738ADB?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="Youtube Badge"/>
   </a>
   <a href="https://github.com/derek-hoogewerf">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="GitHub Badge"/>
   </a>
   <a href="https://discordapp.com/users/cutthroat8636">
-    <img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-333?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord Badge"/>
   </a>
 </div>
  
