@@ -20,7 +20,7 @@
 </div>
  
 ### :hammer_and_wrench: Languages and Tools :
-- [ ] Back End :
+- Back End :
   <div id='backend'>
     <a href="#">
       <img src="https://img.shields.io/badge/Java-orange">
@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/Ruby-red">
     </a>
   </div>
-- [ ] Front End : 
+- Front End : 
   <div id='frontend'>
     <a href="#">
       <img src="https://img.shields.io/badge/HTML-grey">
@@ -56,7 +56,24 @@
       <img src="https://img.shields.io/badge/PHP-lightblue">
     </a>
   </div>
-
+- Databases :
+  <div id='databases'>
+    <a href="#">
+      <img src="https://img.shields.io/badge/AQL-white">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/ElasticDB-silver">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MongoDB-darkgreen">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MySQL-tangerine">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/PostgreSQL-darkblue">
+    </a>
+  </div>
 
 
 
