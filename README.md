@@ -21,7 +21,7 @@
  
 ### :hammer_and_wrench: Languages and Tools :
   <div id='backend'>
-  - [ ] Back End
+  - [ ] Back End : <br>
     <a href="#">
       <img src="https://img.shields.io/badge/Java-orange">
     </a>
@@ -42,7 +42,7 @@
     </a>
   </div>
   <div id='frontend'>
-  - [ ] Front End :
+  - [ ] Front End : <br/>
     <a href="#">
       <img src="https://img.shields.io/badge/HTMLX-grey">
     </a>
