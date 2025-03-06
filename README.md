@@ -23,6 +23,7 @@ I am an Automation SME with a passion for web development and SOAR.
 </div>
  
 ##### :hammer_and_wrench: Languages and Tools :
+
 ###### Back End :
   <div id='backend'>
     <a href="#">
@@ -47,6 +48,7 @@ I am an Automation SME with a passion for web development and SOAR.
       <img src="https://img.shields.io/badge/Ruby-red">
     </a>
   </div>
+
 ###### Front End : 
   <div id='frontend'>
     <a href="#">
@@ -59,6 +61,7 @@ I am an Automation SME with a passion for web development and SOAR.
       <img src="https://img.shields.io/badge/PHP-lightblue">
     </a>
   </div>
+  
 ###### Databases :
   <div id='databases'>
     <a href="#">
