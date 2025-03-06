@@ -20,8 +20,8 @@
 </div>
  
 ### :hammer_and_wrench: Languages and Tools :
-- [] Front End
-- https://img.shields.io/badge/Java-orange 
+- [ ] Front End
+- [https://img.shields.io/badge/Java-orange](url)
 - https://img.shields.io/badge/JavaScript-yellow
 - https://img.shields.io/badge/python-blue
 
