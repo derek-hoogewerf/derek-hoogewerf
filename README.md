@@ -21,7 +21,7 @@
  
 ### :hammer_and_wrench: Languages and Tools :
 
-### 👣 Hobbies
+### :footprints: Hobbies
 
 <!--
 **derek-hoogewerf/derek-hoogewerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
