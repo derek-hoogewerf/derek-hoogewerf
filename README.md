@@ -46,6 +46,7 @@
       <img src="https://img.shields.io/badge/Ruby-red">
     </a>
   </div>
+  
 ###### Front End : 
   <div id='frontend'>
     <a href="#">
@@ -58,6 +59,7 @@
       <img src="https://img.shields.io/badge/PHP-lightblue">
     </a>
   </div>
+  
 ###### Databases :
   <div id='databases'>
     <a href="#">
