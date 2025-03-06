@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-### :mailbox: Connect with me
+### About Me
+I am an Automation SME with a passion for web development and SOAR. 
+
+##### :mailbox: Connect with me
 <div id="badges">
   <a href="https://www.linkedin.com/in/derek-hoogewerf/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Badge"/>
@@ -19,13 +22,71 @@
   </a>
 </div>
  
-### :hammer_and_wrench: Languages and Tools :
+##### :hammer_and_wrench: Languages and Tools :
 
-### :footprints: Hobbies :
+###### Back End :
+  <div id='backend'>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Java-orange">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/JavaScript-yellow">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/NodeJS-darkgreen">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Perl-cyan">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/PowerShell-black">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Python-blue">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Ruby-red">
+    </a>
+  </div>
+
+###### Front End : 
+  <div id='frontend'>
+    <a href="#">
+      <img src="https://img.shields.io/badge/HTML-grey">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MarkDown-green">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/PHP-lightblue">
+    </a>
+  </div>
+  
+###### Databases :
+  <div id='databases'>
+    <a href="#">
+      <img src="https://img.shields.io/badge/AQL-white">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/ElasticDB-silver">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MongoDB-darkgreen">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MySQL-tangerine">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/PostgreSQL-darkblue">
+    </a>
+  </div>
+
+
+
+### :footprints: Hobbies
 
 <!--
 **derek-hoogewerf/derek-hoogewerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- [x] Write the press release
 
 Here are some ideas to get you started:
 
