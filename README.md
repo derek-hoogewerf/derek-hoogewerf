@@ -20,12 +20,18 @@
 </div>
  
 ### :hammer_and_wrench: Languages and Tools :
+- [] Front End
+- https://img.shields.io/badge/Java-orange 
+- https://img.shields.io/badge/JavaScript-yellow
+- https://img.shields.io/badge/python-blue
 
-### :footprints: Hobbies :
+
+
+
+### :footprints: Hobbies
 
 <!--
 **derek-hoogewerf/derek-hoogewerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- [x] Write the press release
 
 Here are some ideas to get you started:
 
