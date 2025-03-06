@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### About Me
+I am an Automation SME with a passion for web development and SOAR. 
 
 ##### :mailbox: Connect with me
 <div id="badges">
@@ -46,7 +47,6 @@
       <img src="https://img.shields.io/badge/Ruby-red">
     </a>
   </div>
-  
 ###### Front End : 
   <div id='frontend'>
     <a href="#">
@@ -59,7 +59,6 @@
       <img src="https://img.shields.io/badge/PHP-lightblue">
     </a>
   </div>
-  
 ###### Databases :
   <div id='databases'>
     <a href="#">
@@ -81,7 +80,7 @@
 
 
 
-#### :footprints: Hobbies
+### :footprints: Hobbies
 
 <!--
 **derek-hoogewerf/derek-hoogewerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
