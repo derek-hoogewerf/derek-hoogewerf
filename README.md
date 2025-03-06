@@ -22,7 +22,7 @@
 </div>
  
 ##### :hammer_and_wrench: Languages and Tools :
-- Back End :
+###### Back End :
   <div id='backend'>
     <a href="#">
       <img src="https://img.shields.io/badge/Java-orange">
@@ -46,7 +46,7 @@
       <img src="https://img.shields.io/badge/Ruby-red">
     </a>
   </div>
-- Front End : 
+###### Front End : 
   <div id='frontend'>
     <a href="#">
       <img src="https://img.shields.io/badge/HTML-grey">
@@ -58,7 +58,7 @@
       <img src="https://img.shields.io/badge/PHP-lightblue">
     </a>
   </div>
-- Databases :
+###### Databases :
   <div id='databases'>
     <a href="#">
       <img src="https://img.shields.io/badge/AQL-white">
@@ -79,7 +79,7 @@
 
 
 
-### :footprints: Hobbies
+#### :footprints: Hobbies
 
 <!--
 **derek-hoogewerf/derek-hoogewerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
