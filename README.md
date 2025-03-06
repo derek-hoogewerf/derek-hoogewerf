@@ -21,6 +21,7 @@
  
 ### :hammer_and_wrench: Languages and Tools :
   - [ ] Front End
+  <div>
     <a href="#">
       <img src="https://img.shields.io/badge/Java-orange">
     </a>
@@ -28,8 +29,12 @@
       <img src="https://img.shields.io/badge/JavaScript-yellow">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/python-blue">
+      <img src="https://img.shields.io/badge/Python-blue">
     </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Ruby-ruby">
+    </a>
+  </div>
 
 
 
